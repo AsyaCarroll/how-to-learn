@@ -1,0 +1,10 @@
+.resources__link {
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.resources__link:hover {
+    background: linear-gradient(0deg, rgba(47, 128, 237, 1) 0%, rgba(255, 255, 255, 0) 50%);
+}
