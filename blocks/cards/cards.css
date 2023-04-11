@@ -2,5 +2,7 @@
     width: 920px;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    column-gap: 100px;    
+    column-gap: 100px;
+    margin: 0;
+    padding: 0; 
 }
